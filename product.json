@@ -1,0 +1,11 @@
+{
+  "id": "notes",
+  "kind": "note",
+  "title": "Notes",
+  "tagline": "A quieter place for your next idea.",
+  "description": "Capture what matters, organise your thoughts and pick up where you left off.",
+  "eyebrow": "PERSONAL KNOWLEDGE",
+  "collection": "Notes",
+  "webPort": 5182,
+  "apiPort": 8102
+}
