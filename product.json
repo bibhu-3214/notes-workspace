@@ -1,11 +1,15 @@
 {
-  "id": "notes",
+  "id": "notes-workspace",
   "kind": "note",
-  "title": "Notes",
+  "title": "Notes Workspace",
   "tagline": "A quieter place for your next idea.",
   "description": "Capture what matters, organise your thoughts and pick up where you left off.",
   "eyebrow": "PERSONAL KNOWLEDGE",
   "collection": "Notes",
   "webPort": 5182,
-  "apiPort": 8102
+  "apiPort": 8102,
+  "storageNamespace": "notes",
+  "legacyProductIds": [
+    "notes"
+  ]
 }
